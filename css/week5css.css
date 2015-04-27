@@ -63,7 +63,7 @@ table {
 }
 ul.topinfo {
 	float: right; 
-	padding-right: 30px;
+	padding-right: 20px;
 	padding-top: 60px;
 }
 ul.topinfo li {
@@ -96,7 +96,7 @@ ul.topinfo li a {
 }
 .sliderL{
 	width: 500px;
-	height: 380px;
+	height: 400px;
 	float: left;
 }
 .sliderR{
@@ -108,7 +108,6 @@ ul.topinfo li a {
 	color: #ababab;
 	padding-left: 20px;
 	padding-right: 20px;
-	padding-bottom: 10px;
 	float: right;
 }
 h1{
