@@ -103,13 +103,13 @@ ul.topinfo li a {
 	width: 300px;
 	height: 400px;
 	background-color: #292929;
+	font-size: 16px;
+	line-height: 35px;
 	float: right;
 }
 .adTitle{
 	width: 250px;
 	height: 260px;
-	font-size: 16px;
-	line-height: 35px;
 	
 	padding: 20px;
 	padding-bottom: 20px;
