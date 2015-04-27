@@ -107,24 +107,30 @@ ul.topinfo li a {
 }
 .adTitle{
 	width: 250px;
-	height: 70px;
-	font-size: 32px;
-	color: #01a5ca;
+	height: 260px;
+	font-size: 16px;
+	line-height: 35px;
+	
 	padding: 20px;
 	padding-bottom: 20px;
 	float: right;
 }
-.adContent{
+h1{
+	color: #01a5ca;
+	font-size: 30px;
+
+}
+/*.adContent{
 	width: 250px;
 	height: 180px;
 	color: #ababab;
 	font-size: 16px;
-	line-height: 35px;
+	
 	padding-left: 20px;
 	padding-right: 20px;
 	padding-bottom: 10px;
 	float: right;
-}
+}*/
 .readmore{
 	width: 110px;
 	height: 55px;
